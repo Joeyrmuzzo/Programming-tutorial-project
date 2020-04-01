@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Joey Muzzo Course Project Week 3.vcxproj, Joey Muzzo Course Project Week 6.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  stdafx.cpp
+  Joey Muzzo Course Project Week 7.cpp
+c:\users\joeyr\documents\school projects\cis-170\joey muzzo course project week 6\joey muzzo course project week 6\joey muzzo course project week 3\joey muzzo course project week 7.cpp(56): warning C4806: '!=': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+  Joey Muzzo Course Project Week 3.vcxproj -> C:\Users\joeyr\Documents\school projects\CIS-170\Joey Muzzo course project week 6\Joey Muzzo Course Project Week 6\Debug\Joey Muzzo Course Project Week 7.exe
+  Joey Muzzo Course Project Week 3.vcxproj -> C:\Users\joeyr\Documents\school projects\CIS-170\Joey Muzzo course project week 6\Joey Muzzo Course Project Week 6\Debug\Joey Muzzo Course Project Week 7.pdb (Full PDB)
